@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xgangw
-- 👀 I’m interested in coding something ^^
+- 👀 I'm interested in coding things ^^
 - 🌱 I’m currently learning JS and Python 
-- 💞️ I’m looking to collaborate on Xbox
+- 💞️ I’m looking to collaborate on XGang ;)
 - 📫 How to reach me ? My e-mail: xgangwcontact@gmail.com
 
 <!---
